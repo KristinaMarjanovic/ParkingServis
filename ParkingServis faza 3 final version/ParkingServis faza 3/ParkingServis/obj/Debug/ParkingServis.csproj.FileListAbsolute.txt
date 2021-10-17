@@ -1,0 +1,282 @@
+c:\users\dota\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\bin\Debug\ParkingServis.exe.config
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\bin\Debug\ParkingServis.exe
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\bin\Debug\ParkingServis.pdb
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\bin\Debug\FluentNHibernate.dll
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\bin\Debug\Iesi.Collections.dll
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\bin\Debug\NHibernate.dll
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\bin\Debug\FluentNHibernate.pdb
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\bin\Debug\FluentNHibernate.xml
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\bin\Debug\Iesi.Collections.xml
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\bin\Debug\NHibernate.xml
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\obj\Debug\ParkingServis.exe
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\obj\Debug\ParkingServis.pdb
+C:\Users\DOTA\documents\visual studio 2015\Projects\ParkingServis\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\student\Desktop\ParkingServis\ParkingServis\bin\Debug\ParkingServis.exe.config
+C:\Users\student\Desktop\ParkingServis\ParkingServis\obj\Debug\ParkingServis.exe
+C:\Users\student\Desktop\ParkingServis\ParkingServis\obj\Debug\ParkingServis.pdb
+C:\Users\student\Desktop\ParkingServis\ParkingServis\bin\Debug\ParkingServis.exe
+C:\Users\student\Desktop\ParkingServis\ParkingServis\bin\Debug\ParkingServis.pdb
+C:\Users\student\Desktop\ParkingServis\ParkingServis\bin\Debug\FluentNHibernate.dll
+C:\Users\student\Desktop\ParkingServis\ParkingServis\bin\Debug\Iesi.Collections.dll
+C:\Users\student\Desktop\ParkingServis\ParkingServis\bin\Debug\NHibernate.dll
+C:\Users\student\Desktop\ParkingServis\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\student\Desktop\ParkingServis\ParkingServis\bin\Debug\FluentNHibernate.pdb
+C:\Users\student\Desktop\ParkingServis\ParkingServis\bin\Debug\FluentNHibernate.xml
+C:\Users\student\Desktop\ParkingServis\ParkingServis\bin\Debug\Iesi.Collections.xml
+C:\Users\student\Desktop\ParkingServis\ParkingServis\bin\Debug\NHibernate.xml
+C:\Users\student\Desktop\ParkingServis\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ParkingServis\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+C:\Users\student\Desktop\ParkingServis\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+C:\Users\student\Desktop\ParkingServis\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\bin\Debug\ParkingServis.exe.config
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\obj\Debug\ParkingServis.exe
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\obj\Debug\ParkingServis.pdb
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\bin\Debug\ParkingServis.exe
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\bin\Debug\ParkingServis.pdb
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\bin\Debug\FluentNHibernate.dll
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\bin\Debug\Iesi.Collections.dll
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\bin\Debug\NHibernate.dll
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\bin\Debug\FluentNHibernate.pdb
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\bin\Debug\FluentNHibernate.xml
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\bin\Debug\Iesi.Collections.xml
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\bin\Debug\NHibernate.xml
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+C:\Users\DOTA\Desktop\Danijela slike\ParkingServis\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\ParkingServis.exe.config
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\ParkingServis.exe
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\ParkingServis.pdb
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\FluentNHibernate.dll
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\Iesi.Collections.dll
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\NHibernate.dll
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\FluentNHibernate.pdb
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\FluentNHibernate.xml
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\Iesi.Collections.xml
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\NHibernate.xml
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.exe
+C:\Users\n\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.pdb
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\ParkingServis.exe.config
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.exe
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.pdb
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\ParkingServis.exe
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\ParkingServis.pdb
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\FluentNHibernate.dll
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\Iesi.Collections.dll
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\NHibernate.dll
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\FluentNHibernate.pdb
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\FluentNHibernate.xml
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\Iesi.Collections.xml
+C:\Users\Nikola\Desktop\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\NHibernate.xml
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\ParkingServis.exe.config
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\ParkingServis.exe
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\ParkingServis.pdb
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\FluentNHibernate.dll
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\Iesi.Collections.dll
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\NHibernate.dll
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\FluentNHibernate.pdb
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\FluentNHibernate.xml
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\Iesi.Collections.xml
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\bin\Debug\NHibernate.xml
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.csproj.CoreCompileInputs.cache
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.exe
+C:\Users\Sawyer\Downloads\Baze\prva i druga faza\prva i druga faza\ParkingServis ispravak faza 2\ParkingServis\obj\Debug\ParkingServis.pdb
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\bin\Debug\ParkingServis.exe
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\bin\Debug\FluentNHibernate.dll
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\bin\Debug\NHibernate.dll
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\bin\Debug\ParkingServis.exe.config
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\bin\Debug\Iesi.Collections.dll
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\bin\Debug\FluentNHibernate.pdb
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\bin\Debug\FluentNHibernate.xml
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\bin\Debug\Iesi.Collections.xml
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\bin\Debug\NHibernate.xml
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.csproj.CoreCompileInputs.cache
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.exe
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.pdb
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\bin\Debug\ParkingServis.pdb
+D:\Fakultet\Vl\ProjekatIzBaze\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\bin\Debug\ParkingServis.exe.config
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\bin\Debug\ParkingServis.exe
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\bin\Debug\ParkingServis.pdb
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\bin\Debug\FluentNHibernate.dll
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\bin\Debug\Iesi.Collections.dll
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\bin\Debug\NHibernate.dll
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\bin\Debug\FluentNHibernate.pdb
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\bin\Debug\FluentNHibernate.xml
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\bin\Debug\Iesi.Collections.xml
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\bin\Debug\NHibernate.xml
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.csproj.CoreCompileInputs.cache
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.exe
+C:\Users\Andja\Desktop\Parking servis 2017\ParkingServis faza 2 - Copy\ParkingServis faza 2\ParkingServis\obj\Debug\ParkingServis.pdb
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.exe.config
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.exe
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.pdb
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Iesi.Collections.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\NHibernate.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.pdb
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.xml
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Iesi.Collections.xml
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\NHibernate.xml
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.exe
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.pdb
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.exe.config
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.exe
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.pdb
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.dll
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Iesi.Collections.dll
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\NHibernate.dll
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.pdb
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.xml
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Iesi.Collections.xml
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\NHibernate.xml
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csproj.CoreCompileInputs.cache
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.exe
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.pdb
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csproj.CoreCompileInputs.cache
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.exe
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.pdb
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.exe.config
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.exe
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.pdb
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.dll
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Iesi.Collections.dll
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\NHibernate.dll
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.pdb
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.xml
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Iesi.Collections.xml
+C:\Users\Andja\Desktop\ParkingServis faza 2 dobra - Copy\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\NHibernate.xml
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.exe.config
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.exe
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.pdb
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.exe
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.pdb
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Iesi.Collections.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\NHibernate.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.pdb
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.xml
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Iesi.Collections.xml
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\NHibernate.xml
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.exe.config
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.exe
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\ParkingServis.pdb
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.dll
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Iesi.Collections.dll
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\NHibernate.dll
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.pdb
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\FluentNHibernate.xml
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\Iesi.Collections.xml
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\bin\Debug\NHibernate.xml
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.csproj.CoreCompileInputs.cache
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.exe
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.pdb
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.KarteZaParkiranje.resources
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.Zakupci.resources
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.VozilaForma.resources
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.GarazaForma.resources
+C:\Users\Andja\Downloads\ParkingServis novo\ParkingServis novo\ParkingServis faza 2 dobra\ParkingServis\obj\Debug\ParkingServis.ParkingForma.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\bin\Debug\ParkingServis.exe.config
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.exe
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.pdb
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\bin\Debug\ParkingServis.exe
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\bin\Debug\ParkingServis.pdb
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\bin\Debug\FluentNHibernate.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\bin\Debug\Iesi.Collections.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\bin\Debug\NHibernate.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\bin\Debug\FluentNHibernate.pdb
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\bin\Debug\FluentNHibernate.xml
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\bin\Debug\Iesi.Collections.xml
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\bin\Debug\NHibernate.xml
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.GarazaForma.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.KarteZaParkiranje.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.ParkingForma.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.VozilaForma.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.Zakupci.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.ZakupljujeForm.resources
+E:\Zarko materijal za fax\III godina\II semestar\Sistemi baza podataka\Projekat ZN\ZN i KM\SBPZNKM\ParkingServis faza 3\ParkingServis\obj\Debug\ParkingServis.KontrolaForm.resources
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\bin\Debug\ParkingServis.exe.config
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\bin\Debug\ParkingServis.exe
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\bin\Debug\ParkingServis.pdb
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\bin\Debug\FluentNHibernate.dll
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\bin\Debug\Iesi.Collections.dll
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\bin\Debug\NHibernate.dll
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\bin\Debug\FluentNHibernate.pdb
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\bin\Debug\FluentNHibernate.xml
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\bin\Debug\Iesi.Collections.xml
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\bin\Debug\NHibernate.xml
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.csprojResolveAssemblyReference.cache
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.Form1.resources
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.GarazaForma.resources
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.KarteZaParkiranje.resources
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.KontrolaForm.resources
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.ParkingForma.resources
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.Properties.Resources.resources
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.VozilaForma.resources
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.Zakupci.resources
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.ZakupljujeForm.resources
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.csproj.GenerateResource.Cache
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.csproj.CoreCompileInputs.cache
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.exe
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.pdb
+C:\Users\Andja\Downloads\ParkingServis faza 3 final version\ParkingServis faza 3 final version\ParkingServis\obj\Debug\ParkingServis.ParkingMestaForma.resources
